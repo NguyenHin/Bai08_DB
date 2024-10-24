@@ -1,0 +1,15 @@
+C:\Users\truchien\source\repos\bai8_DB\bin\Debug\bai8_DB.exe.config
+C:\Users\truchien\source\repos\bai8_DB\bin\Debug\bai8_DB.exe
+C:\Users\truchien\source\repos\bai8_DB\bin\Debug\bai8_DB.pdb
+C:\Users\truchien\source\repos\bai8_DB\bin\Debug\EntityFramework.dll
+C:\Users\truchien\source\repos\bai8_DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\truchien\source\repos\bai8_DB\bin\Debug\EntityFramework.xml
+C:\Users\truchien\source\repos\bai8_DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\truchien\source\repos\bai8_DB\obj\Debug\bai8_DB.csproj.AssemblyReference.cache
+C:\Users\truchien\source\repos\bai8_DB\obj\Debug\bai8_DB.Form1.resources
+C:\Users\truchien\source\repos\bai8_DB\obj\Debug\bai8_DB.Properties.Resources.resources
+C:\Users\truchien\source\repos\bai8_DB\obj\Debug\bai8_DB.csproj.GenerateResource.cache
+C:\Users\truchien\source\repos\bai8_DB\obj\Debug\bai8_DB.csproj.CoreCompileInputs.cache
+C:\Users\truchien\source\repos\bai8_DB\obj\Debug\bai8_DB.csproj.Up2Date
+C:\Users\truchien\source\repos\bai8_DB\obj\Debug\bai8_DB.exe
+C:\Users\truchien\source\repos\bai8_DB\obj\Debug\bai8_DB.pdb
